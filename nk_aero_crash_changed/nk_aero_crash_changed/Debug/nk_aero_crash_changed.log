@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Nithin Kumar\source\repos\nk_aero_crash_changed\nk_aero_crash_changed\Source.cpp(468,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  nk_aero_crash_changed.vcxproj -> C:\Users\Nithin Kumar\source\repos\nk_aero_crash_changed\Debug\nk_aero_crash_changed.exe
